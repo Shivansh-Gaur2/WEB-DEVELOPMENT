@@ -1,0 +1,43 @@
+p{
+    color: dimgrey;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-family: sans-serif;
+    
+}
+#blog-title:hover{
+    color: orange;
+    font-style: italic;
+    text-decoration: wavy;
+}
+/* h1, p{
+    font-family: sans-serif;
+}  grouping*/
+
+header{
+    height: 400px;
+}
+article{
+    width: 1000px;
+}
+h4{
+    text-transform: uppercase;
+}  
+.uppercase{
+    text-transform: uppercase;
+}
+.cursive{
+    font-family: cursive;
+} */
+ /* li h4{
+text-transform: uppercase;
+font-family: cursive;
+} */
+#about-site{
+    color:grey;
+}
+.h-style{
+    color: darkslategrey;
+}
