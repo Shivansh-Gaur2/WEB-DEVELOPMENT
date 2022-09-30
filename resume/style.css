@@ -313,3 +313,19 @@ TIMELINE */
     min-height: 150px;
     border: 2px solid black;
 }
+
+.timeline-container{
+    overflow: auto;
+}
+
+.right{
+    display: flex;
+    position: relative;
+    align-self: flex-start;
+    left: 40vw;
+}
+.left{
+    display: flex;
+    align-self: flex-end;
+
+}
